@@ -39,6 +39,9 @@ pip install robotframework
 ```
 pip install -r requirements.txt
 ```
+- Adicionar o python ao PATH do windows
+
+- Adicionar o arquivo do chromedriver na pasta Scripts do diretório do Python
 
 *requiriments.txt: arquivo dentro do projeto que contém todas as bibliotecas necessárias para a automação*
 
