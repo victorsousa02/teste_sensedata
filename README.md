@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ## Como executar os testes
 
-Abra o terminal e execute o seguinte comando.
+Abra o terminal, entre no diretório do projeto e execute o seguinte comando.
 
 ```
 robot -d (caminho desejado para o report) (caminho dos testes)
@@ -63,6 +63,6 @@ robot -d (caminho desejado para o report) (caminho dos testes)
 Executar com tag
 robot -d (caminho desejado para o report) -i (tag) (pasta raiz de onde estão os testes)
 
-
+Ex: robot -d Result tests
 Ex: robot -d Result -i TC0001 tests
 ```
